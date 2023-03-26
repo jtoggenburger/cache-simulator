@@ -20,9 +20,9 @@ $ ./cacher [-N cache size] <policy>
 ```
 
 The following are the various policies that may be selected:
---F : First in First Out
---L : Least Recently Used
---C : Clock policy
+- -F = First in First Out
+- -L = Least Recently Used
+- -C = Clock policy
 
 
 ## Usage
